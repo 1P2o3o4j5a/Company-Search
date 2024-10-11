@@ -20,6 +20,14 @@
             <table class="auto-style1">
                 <tr>
                     <td class="auto-style2">
+                        <asp:Label ID="Label4" runat="server" Font-Bold="True" Font-Underline="True" Text="Job Search"></asp:Label>
+                    </td>
+                    <td>
+                        &nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">
                         <asp:Label ID="Label1" runat="server" Text="Company Name"></asp:Label>
                     </td>
                     <td>
